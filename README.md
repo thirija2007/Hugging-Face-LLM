@@ -4,7 +4,7 @@ An AI-powered chatbot built using **Python, Streamlit, and Hugging Face Inferenc
 
 ## Live Demo
 
-👉 https://hugging-face-llm-5gmkmw3sdfnrrcgnm2r8zr.streamlit.app/
+https://hugging-face-llm-5gmkmw3sdfnrrcgnm2r8zr.streamlit.app/
 
 ## Project Description
 
@@ -14,15 +14,15 @@ The application provides an interactive chat interface and maintains the convers
 
 ## Features
 
-- 🤖 AI-powered conversational chatbot
-- 💬 Interactive chat interface
-- 🧠 Large Language Model integration
-- 🔗 Hugging Face Inference API
-- 🔄 Conversation history
-- ⚡ Simple and responsive user interface
-- 🔐 Secure API token management using Streamlit Secrets
-- 🌐 Deployed using Streamlit Community Cloud
-- 📱 Easy-to-use chat interface
+-  AI-powered conversational chatbot
+-  Interactive chat interface
+-  Large Language Model integration
+-  Hugging Face Inference API
+-  Conversation history
+-  Simple and responsive user interface
+-  Secure API token management using Streamlit Secrets
+-  Deployed using Streamlit Community Cloud
+-  Easy-to-use chat interface
 
 ## Technologies Used
 
@@ -103,7 +103,7 @@ Thirija R
 
 B.Sc. Computer Science with Artificial Intelligence
 
-## ⭐ Conclusion
+## Conclusion
 
 This project demonstrates how a Large Language Model can be integrated into a user-friendly web application using Python, Streamlit, and Hugging Face.
 
