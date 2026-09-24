@@ -1,18 +1,18 @@
-# 🤖 My AI Chatbot
+# My AI Chatbot
 
 An AI-powered chatbot built using **Python, Streamlit, and Hugging Face Inference API**. This project provides a simple and interactive chat interface where users can ask questions and receive AI-generated responses.
 
-## 🚀 Live Demo
+## Live Demo
 
 👉 https://hugging-face-llm-5gmkmw3sdfnrrcgnm2r8zr.streamlit.app/
 
-## 📌 Project Description
+## Project Description
 
 **My AI Chatbot** is a web-based conversational AI application developed using Python and Streamlit. The chatbot connects to the **Hugging Face Inference API** and uses the **OpenAI GPT-OSS-120B** model to generate AI-powered responses.
 
 The application provides an interactive chat interface and maintains the conversation history during the current session.
 
-## ✨ Features
+## Features
 
 - 🤖 AI-powered conversational chatbot
 - 💬 Interactive chat interface
@@ -24,7 +24,7 @@ The application provides an interactive chat interface and maintains the convers
 - 🌐 Deployed using Streamlit Community Cloud
 - 📱 Easy-to-use chat interface
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Streamlit
@@ -34,13 +34,13 @@ The application provides an interactive chat interface and maintains the convers
 - GitHub
 - Streamlit Community Cloud
 
-## 📦 Requirements
+## Requirements
 
 ```text
 streamlit
 huggingface_hub
 
-## 📂 Project Structure
+## Project Structure
 
 Hugging-Face-LLM/
 │
@@ -51,7 +51,7 @@ Hugging-Face-LLM/
 └── .streamlit/
     └── secrets.toml
 
-## 🔄 How It Works
+## How It Works
 
 User
   ↓
@@ -69,7 +69,7 @@ AI Generated Response
   ↓
 Response Displayed to User
 
-## 🧠 AI Model
+## AI Model
 
 The chatbot uses:
 
@@ -77,7 +77,7 @@ openai/gpt-oss-120b
 
 The model is accessed through the Hugging Face Inference API.
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I learned:
 
@@ -93,11 +93,11 @@ How to deploy an AI application using Streamlit Community Cloud
 How to manage and publish projects using GitHub
 
 
-## 🌐 Deployment
+## Deployment
 
 The application is deployed using Streamlit Community Cloud.
 
-## 👩‍💻 Developed By
+## Developed By
 
 Thirija R
 
